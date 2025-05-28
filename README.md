@@ -1,10 +1,10 @@
-# machine-learning-algorithms 
+# Machine Larning Algorithms 
 
 This repository serves as a personal collection and implementation of various machine learning algorithms. My goal is to build out practical examples and explanations for fundamental ML concepts, making them accessible for learning and reference.
 
 ---
 
-## Progress & What's Inside (So Far!)
+## Progress & What's Inside 
 
 This repository is a work in progress and will be continuously updated with more algorithms over time.
 
