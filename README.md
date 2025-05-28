@@ -11,7 +11,7 @@ This repository is a work in progress and will be continuously updated with more
 
 ### 📊 Linear Regression
 
-* **File:** `LinearRegression.ipynb`
+* **File:** `Linear-regression.ipynb`
 * **Description:** An demonstration of Simple Linear Regression, covering data generation, exploration, model training, prediction, and evaluation. This notebook illustrates how to find the best-fitting straight line to model the relationship between variables.
 
 
