@@ -14,6 +14,8 @@ This repository is a work in progress and will be continuously updated with more
 * **File:** `Linear-regression.ipynb`
 * **Description:** An demonstration of Simple Linear Regression, covering data generation, exploration, model training, prediction, and evaluation. This notebook illustrates how to find the best-fitting straight line to model the relationship between variables.
 
+* **File:** `Iris_flower_classification.ipynb`
+* **Description:** An example of classifying the Iris flower dataset using the K-Nearest Neighbors (KNN) algorithm. This notebook demonstrates a common classification task from data loading to model evaluation, including data exploration, model training, and performance assessment.
 
 ## Future
 
